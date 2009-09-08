@@ -1,7 +1,7 @@
 Summary:	Authentication provider for mod_spin
 Name:		spin_auth
 Version:	1.1.6
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		System/Servers
 License:	LGPLv2+
 URL:		http://www.rexursive.com/software/modspin/applications.html
